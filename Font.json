@@ -1,0 +1,10 @@
+{
+  "spec": 1,
+  "name": "MinecraftDefault Regular",
+  "previewText": "Using my custom Minecraft-style font (regular weight).",
+  "main": {
+    "ggsans-Normal": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/MinecraftDefault-Regular.ttf",
+    "NotoSans-Normal": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/MinecraftDefault-Regular.ttf",
+    "SourceCodePro-Semibold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/MinecraftDefault-Regular.ttf"
+  }
+}
