@@ -12,13 +12,13 @@
       "#1e1a2fcc"
     ],
     "BACKGROUND_ACCENT": [
-      "#121212cc"
+      "#1e1a2fcc"  
     ],
     "BACKGROUND_SECONDARY": [
       "#1e1a2fcc"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#121212cc"
+      "#1e1a2fcc" 
     ],
     "DIVIDER_STRONG": [
       "#1e1a2fcc"
@@ -218,7 +218,7 @@
     "YELLOW_700": "#FFFFFF",
     "RED_430": "#009AFF",
     "PLUM_14": "#222222",
-    "PRIMARY_800": "#222222",
+    "PRIMARY_800": "#1e1a2fcc", 
     "PLUM_1": "#FFFFFF",
     "PLUM_22": "#1e1a2fcc",
     "PRIMARY_660": "#1e1a2fcc",
