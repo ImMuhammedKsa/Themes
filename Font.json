@@ -1,10 +1,16 @@
 {
   "spec": 1,
-  "name": "MinecraftDefault Regular",
-  "previewText": "Using my custom Minecraft-style font (regular weight).",
+  "name": "Minecraft Font Pack",
+  "previewText": "Minecraft styled font set: Ten, Regular, and Bold.",
   "main": {
-    "ggsans-Normal": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/MinecraftDefault-Regular.ttf",
-    "NotoSans-Normal": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/MinecraftDefault-Regular.ttf",
-    "SourceCodePro-Semibold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/MinecraftDefault-Regular.ttf"
+    "ggsans-Normal": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
+    "ggsans-Bold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
+    "ggsans-ExtraBold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
+    "ggsans-Medium": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
+    "ggsans-NormalItalic": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
+    "NotoSans-Normal": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
+    "NotoSans-Bold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
+    "NotoSans-ExtraBold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
+    "SourceCodePro-Semibold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftTen-VGORe.ttf"
   }
 }
