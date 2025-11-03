@@ -1,16 +1,25 @@
 {
   "spec": 1,
-  "name": "Minecraft Font Pack",
-  "previewText": "Minecraft styled font set: Ten, Regular, and Bold.",
+  "name": "Minecraft Font Pack (Full)",
+  "previewText": "Minecraft fonts applied everywhere.",
   "main": {
-    "ggsans-Normal": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
+    "ABCGintoNord-ExtraBold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
     "ggsans-Bold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
+    "ggsans-BoldItalic": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
     "ggsans-ExtraBold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
     "ggsans-Medium": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
+    "ggsans-MediumItalic": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
+    "ggsans-Normal": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
     "ggsans-NormalItalic": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
-    "NotoSans-Normal": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
+    "ggsans-Semibold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
     "NotoSans-Bold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
     "NotoSans-ExtraBold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
+    "NotoSans-Medium": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
+    "NotoSans-Normal": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
+    "NotoSans-NormalItalic": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Regular.ttf",
+    "NotoSans-Semibold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftDefault-Bold.ttf",
     "SourceCodePro-Semibold": "https://github.com/ImMuhammedKsa/Themes/raw/refs/heads/main/fonts/MinecraftTen-VGORe.ttf"
   }
 }
