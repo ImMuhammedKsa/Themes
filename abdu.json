@@ -1,0 +1,16 @@
+{
+    "name": "abdu theme fr",
+    "description": "abdu abdu abdu abdu abdu abdu.",
+    "authors": [
+      {
+        "name": "littlestr",
+        "id": "browhydididothsi"
+      }
+    ],
+    "background": {
+        "url": "https://i.imgur.com/3rM52wD.jpeg",
+        "alpha": 0.8,
+        "blur": 0.0
+    },
+    "spec": 2
+}
